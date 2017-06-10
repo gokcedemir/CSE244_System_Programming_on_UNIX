@@ -1,0 +1,13 @@
+===============================================================================
+Gökçe DEMİR						=
+141044067						=
+System_Programming Homework 5	=
+=================================
+ Her directory bir tane shared memory oluşturup, buldugu stringleri bu shared
+memorye yazar. Ve en sonunda bu shared memory message queue yazılır. Message 
+queue da bu mesajları roota iletir(en üst directoye). Roota bu messsage okuyup
+log.txt yazar. 
+
+
+
+================================================================================

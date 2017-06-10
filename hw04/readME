@@ -1,0 +1,11 @@
+#### Gökçe DEMİR
+#### Student ID: 141044067
+#### HW4
+
+Directory altında tüm file ve subdirectoryleri, directory arası yeni process oluşturarak, file arası da thread oluşturarak istenilen stringleri aradım. Threadler arası senkronizasyonu semaphore ile sağladım.
+
+Usage:
+./grepTh <string> <pathname>
+
+Program ekrana nasıl sonlandıgı yazıyor, bunun içinde herhangi bir sinyal durumuna karşı
+sleep(3) fonksiyonunu ekledim ki sinyal gelirse yakalayabilsin.
